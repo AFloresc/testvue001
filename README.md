@@ -7,6 +7,8 @@ Creates an App with four buttons:
 - Reset: Set counter to zero
 - Add: Adds the current counter number to an array an displays it on a list. If the current counter number is in the list this button is dissabled. 
 
+Working installed service: https://magenta-dragon-0c7c9d.netlify.app/
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
