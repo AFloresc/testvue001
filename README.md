@@ -2,10 +2,10 @@
 
 This template should help get you started developing with Vue 3 in Vite. Simple project to test Vue.
 Creates an App with four buttons:
--- Increment: Increments counter
--- Decrement: Decrements counter
--- Reset: Set counter to zero
--- Add: Adds the current counter number to an array an displays it on a list. If the current counter number is in the list this button is dissabled. 
+- Increment: Increments counter
+- Decrement: Decrements counter
+- Reset: Set counter to zero
+- Add: Adds the current counter number to an array an displays it on a list. If the current counter number is in the list this button is dissabled. 
 
 ## Recommended IDE Setup
 
